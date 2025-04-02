@@ -2,7 +2,7 @@
 # Date: 2020.09.15
 
 # This is the file/folder(s) you want to copy to the servers in the $computer variable
-$source = "\\scadafiles01\NewASIS\Administration\Scripts\NagiosLS\nxlog.conf"
+$source = "\\Servername\NagiosLS\nxlog.conf"
  
 # The destination location you want the file/folder(s) to be copied to
 $destination = "c$\Program Files (x86)\nxlog\conf"
