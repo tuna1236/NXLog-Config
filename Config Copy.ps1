@@ -1,5 +1,4 @@
-# Written By: Cole C. Patterson
-# Date: 2020.09.15
+# Updated Date: 2020.09.15
 
 # This is the file/folder(s) you want to copy to the servers in the $computer variable
 $source = "\\Servername\NagiosLS\nxlog.conf"
